@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/NouhanDoumbouya/Nouhan_Doumbouya/refs/heads/main/3-10-24%20%20F18e.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
-### **<div align="center">I am Nouhan Doumbouya A Full-Stack Software Engineer specialized in Backend and a Data Science Enthusiast, I am curently honing my skills in Software Engieer and Data Science</div>**  
+ ### **<div align="center">I am Nouhan Doumbouya A Full-Stack Software Engineer specialized in Backend and a Data Science Enthusiast, I am curently honing my skills in Software Engieer and Data Science</div>**  
   
 
 - 🔭 I’m currently retaking ALX Software Course Python concepts [ALX Python](https://github.com/NouhanDoumbouya/alx-higher_level_programming)   
