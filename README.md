@@ -6,7 +6,7 @@
 
 <br/>
 
-### Passionate Developer | Backend-Focused Full-Stack Engineer | Data Science & Data Engineering Learner
+### Passionate Developer | Backend-Focused Full-Stack Engineer | Data Science, AI & Data Engineering Learner
 
 I build practical software, backend systems, data projects, and AI-powered solutions with a strong interest in **education**, **African languages**, and **technology for impact**.
 
